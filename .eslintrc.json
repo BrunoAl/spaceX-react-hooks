@@ -1,0 +1,19 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "curly": "off",
+    "quotes": "off",
+    "eqeqeq": "off",
+    "indent": "off",
+    "semi": "off",
+    "jsx-quotes": "off",
+    "max-len": "off",
+    "object-curly-newline": "off",
+    "import/no-named-as-default": "off",
+    "import/no-named-as-default-member": "off",
+    "no-undef": "off",
+    "react/jsx-indent": "off",
+    "react/jsx-filename-extension": "off",
+    "react/jsx-indent-props": "off"
+  }
+}
